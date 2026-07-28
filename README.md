@@ -6,8 +6,7 @@ An AI-powered Business Intelligence dashboard that integrates Monday.com GraphQL
 
 ## 🌐 Live Demo
 
-[https://your-render-url.onrender.com]
-(https://skylark-monday-bi-agentt.onrender.com)
+https://skylark-monday-bi-agentt.onrender.com
 ---
 
 ## 📌 Features
